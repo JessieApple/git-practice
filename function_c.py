@@ -4,6 +4,7 @@ def merge_lists(list_a, list_b):
         without any duplicate elements.
     """
     return list_a.extend(list_b)
+    print("let's create conflict")
 
 
 if __name__ == "__main__":
