@@ -3,6 +3,8 @@ def merge_lists(list_a, list_b):
         a combination of list_a and list_b
         without any duplicate elements.
     """
+    list_c = list_a + list_b
+    print(list_c)
     print("let's create conflict")
 
 
