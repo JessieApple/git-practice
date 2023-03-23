@@ -5,7 +5,10 @@ def max_value(numbers):
     max = numbers[0]
     for num in numbers:
         if num > max:
+            print(num)
             max = num
+
+    print(max)
     return max
 
 
