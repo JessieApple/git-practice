@@ -9,6 +9,7 @@ def max_value(numbers):
             max = num
 
     print(max)
+    print("creating conflict")
     return max
 
 
